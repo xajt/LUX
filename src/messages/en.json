@@ -1,0 +1,172 @@
+{
+  "nav": {
+    "about": "About",
+    "boat": "The Boat",
+    "pricing": "Pricing",
+    "departure": "Departure",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "LUX",
+    "subtitle": "Exclusive RIB Charter Experience",
+    "description": "Discover the pristine waters of La Maddalena Archipelago, Costa Smeralda and Bonifacio with our premium charter experience.",
+    "cta": "Request Your Charter",
+    "scroll": "Scroll"
+  },
+  "chiSiamo": {
+    "title": "Chi Siamo",
+    "tagline": "Local Experience, Professional Excellence",
+    "p1": "A young team with over 10 years of operational experience in the nautical sector. Our background in yacht handling and daily logistics ensures the highest quality of service.",
+    "p2": "Deep knowledge of the La Maddalena Archipelago, Costa Smeralda, and Bonifacio allows us to offer unique experiences tailored to your needs.",
+    "p3": "RIB rental supported by local professionals already active in the premium sector."
+  },
+  "ilMezzo": {
+    "title": "Il Mezzo",
+    "tagline": "LUX UNIT — Built for Performance",
+    "description": "A luxury high-performance RIB designed for long daily routes. Focus on performance, autonomy, and long daily range (e.g., Bonifacio).",
+    "specs": {
+      "engine": "Engine",
+      "engineValue": "400 HP",
+      "table": "Electric Table",
+      "tableValue": "Yes",
+      "cabin": "Private Cabin",
+      "cabinValue": "With Bathroom",
+      "audio": "Audio System",
+      "audioValue": "HERTZ 1000W",
+      "amenities": "Amenities",
+      "amenitiesValue": "Fridge & Sink",
+      "thruster": "Bow Thruster",
+      "thrusterValue": "Yes"
+    }
+  },
+  "prezzi": {
+    "title": "Prezzi & Opzioni",
+    "tagline": "Transparent Pricing, Premium Experience",
+    "description": "Rental available for Half Day, Full Day, and Evening Charter (May to August from 18:00). Fuel excluded from rental.",
+    "halfDay": {
+      "title": "Half Day",
+      "duration": "4 hours",
+      "description": "Perfect for a quick escape to nearby coves"
+    },
+    "fullDay": {
+      "title": "Full Day",
+      "duration": "8 hours",
+      "description": "Explore the full archipelago at your pace",
+      "popular": "Most Popular"
+    },
+    "evening": {
+      "title": "Evening Charter",
+      "duration": "From 18:00",
+      "description": "Sunset cruise with less traffic, more magic"
+    },
+    "included": "Included",
+    "includedItems": {
+      "aperitif": "Local aperitif",
+      "wine": "1 glass of wine per person",
+      "water": "Sparkling & still water",
+      "flexible": "Flexible route"
+    },
+    "requestQuote": "Request Quote",
+    "downloadPdf": "Download Full Price List (PDF)"
+  },
+  "eveningCharter": {
+    "title": "Evening Charter",
+    "tagline": "Sunset Magic on the Water",
+    "description": "From May to August, evening charters from 18:00 offer a unique perspective of the archipelago. Experience the magic of Sardinian sunsets from the water.",
+    "benefits": {
+      "lessTraffic": {
+        "title": "Less Traffic",
+        "description": "Iconic locations like Porto Madonna and Spargi are less crowded."
+      },
+      "temperature": {
+        "title": "Perfect Temperature",
+        "description": "Reduced nautical traffic and lower temperatures for greater comfort."
+      },
+      "access": {
+        "title": "Better Access",
+        "description": "Better access to protected coves and sea-accessible restaurants."
+      },
+      "exclusive": {
+        "title": "Exclusive Experience",
+        "description": "A quieter and more exclusive sailing experience at sunset."
+      }
+    }
+  },
+  "partenza": {
+    "title": "Punti di Partenza",
+    "tagline": "Flexible Departure Locations",
+    "description": "Direct boarding from selected hotels and private marinas. Other points along Costa Smeralda on request.",
+    "points": {
+      "laMaddalena": "Main departure point",
+      "palau": "Convenient access",
+      "cannigione": "Costa Smeralda gateway",
+      "bajaSardinia": "Hotel pickups available",
+      "portoCervo": "Premium marina access"
+    }
+  },
+  "ristoranti": {
+    "title": "Supporto Ristoranti",
+    "tagline": "Dining by the Sea",
+    "p1": "No onboard kitchen service to maintain flexibility and allow you to choose the best culinary experiences.",
+    "p2": "Possibility to disembark at sea-accessible restaurants — from simple trattorias to exclusive sea-view restaurants.",
+    "p3": "Reservation support according to your preferences. Access to selected venues thanks to local operational relationships.",
+    "features": {
+      "reservation": "Reservation Support",
+      "seaAccess": "Sea Access Restaurants",
+      "local": "Local Recommendations"
+    }
+  },
+  "costruito": {
+    "title": "Costruito per Queste Acque",
+    "tagline": "Built for These Waters",
+    "description": "Our vessels are not ordinary boats — they are precision tools designed for the specific conditions of the La Maddalena Archipelago and Bonifacio Strait.",
+    "features": {
+      "local": {
+        "title": "Locally Built",
+        "description": "Vessels built locally in La Maddalena with the utmost attention to detail."
+      },
+      "shallow": {
+        "title": "Shallow Water Ready",
+        "description": "Designed for sailing in shallow waters and narrow passages of the archipelago."
+      },
+      "stability": {
+        "title": "Optimized Stability",
+        "description": "Hull stability and maneuverability optimized for the Bonifacio Strait."
+      }
+    }
+  },
+  "cta": {
+    "title": "Ready to Set Sail?",
+    "tagline": "Your Exclusive Charter Awaits",
+    "description": "Experience the beauty of the La Maddalena Archipelago on your own terms. Contact us to plan an unforgettable experience on the water.",
+    "primaryCta": "Request Your Charter",
+    "secondaryCta": "Contact Us",
+    "note": "Hours are flexible and can be adjusted based on route and weather conditions."
+  },
+  "footer": {
+    "tagline": "Luxury RIB Charter Sardinia",
+    "description": "Exclusive RIB charter experience in La Maddalena Archipelago, Costa Smeralda and Bonifacio. Premium boat rentals with local experts.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "modal": {
+    "title": "Request Your Charter",
+    "name": "Name",
+    "namePlaceholder": "Your full name",
+    "email": "Email",
+    "emailPlaceholder": "your@email.com",
+    "phone": "Phone",
+    "phonePlaceholder": "+39 xxx xxx xxxx",
+    "date": "Preferred Date",
+    "guests": "Number of Guests",
+    "guestsPlaceholder": "Select...",
+    "message": "Message",
+    "messagePlaceholder": "Tell us about your ideal charter experience...",
+    "note": "* Hours are flexible and can be adjusted based on route and weather conditions.",
+    "submit": "Send Request",
+    "success": "Thank you for your request! We will contact you shortly."
+  }
+}

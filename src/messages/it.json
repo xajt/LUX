@@ -1,0 +1,172 @@
+{
+  "nav": {
+    "about": "Chi Siamo",
+    "boat": "Il Mezzo",
+    "pricing": "Prezzi",
+    "departure": "Partenza",
+    "contact": "Contatti"
+  },
+  "hero": {
+    "title": "LUX",
+    "subtitle": "Esperienza Esclusiva di Charter RIB",
+    "description": "Scopri le acque cristalline dell'Arcipelago della Maddalena, Costa Smeralda e Bonifacio con la nostra esperienza di charter premium.",
+    "cta": "Richiedi il Tuo Charter",
+    "scroll": "Scorri"
+  },
+  "chiSiamo": {
+    "title": "Chi Siamo",
+    "tagline": "Esperienza Locale, Eccellenza Professionale",
+    "p1": "Un team giovane con oltre 10 anni di esperienza operativa nel settore nautico. La nostra esperienza nella gestione di yacht e logistica quotidiana garantisce la massima qualità del servizio.",
+    "p2": "La profonda conoscenza dell'Arcipelago della Maddalena, Costa Smeralda e Bonifacio ci permette di offrire esperienze uniche su misura per le vostre esigenze.",
+    "p3": "Noleggio RIB supportato da professionisti locali già attivi nel settore premium."
+  },
+  "ilMezzo": {
+    "title": "Il Mezzo",
+    "tagline": "LUX UNIT — Costruito per le Prestazioni",
+    "description": "Un RIB di lusso ad alte prestazioni progettato per lunghe tratte giornaliere. Focus su prestazioni, autonomia e lungo raggio giornaliero (es. Bonifacio).",
+    "specs": {
+      "engine": "Motore",
+      "engineValue": "400 CV",
+      "table": "Tavolo Elettrico",
+      "tableValue": "Sì",
+      "cabin": "Cabina Privata",
+      "cabinValue": "Con Bagno",
+      "audio": "Sistema Audio",
+      "audioValue": "HERTZ 1000W",
+      "amenities": "Comfort",
+      "amenitiesValue": "Frigorifero & Lavello",
+      "thruster": "Elica di Prua",
+      "thrusterValue": "Sì"
+    }
+  },
+  "prezzi": {
+    "title": "Prezzi & Opzioni",
+    "tagline": "Prezzi Trasparenti, Esperienza Premium",
+    "description": "Noleggio disponibile per Mezza Giornata, Giornata Intera e Charter Serale (da maggio ad agosto dalle 18:00). Carburante escluso dal noleggio.",
+    "halfDay": {
+      "title": "Mezza Giornata",
+      "duration": "4 ore",
+      "description": "Perfetto per una fuga rapida nelle calette vicine"
+    },
+    "fullDay": {
+      "title": "Giornata Intera",
+      "duration": "8 ore",
+      "description": "Esplora l'intero arcipelago al tuo ritmo",
+      "popular": "Più Popolare"
+    },
+    "evening": {
+      "title": "Charter Serale",
+      "duration": "Dalle 18:00",
+      "description": "Crociera al tramonto con meno traffico, più magia"
+    },
+    "included": "Incluso",
+    "includedItems": {
+      "aperitif": "Aperitivo locale",
+      "wine": "1 calice di vino a persona",
+      "water": "Acqua frizzante e naturale",
+      "flexible": "Itinerario flessibile"
+    },
+    "requestQuote": "Richiedi Preventivo",
+    "downloadPdf": "Scarica Listino Completo (PDF)"
+  },
+  "eveningCharter": {
+    "title": "Charter Serale",
+    "tagline": "Magia al Tramonto sull'Acqua",
+    "description": "Da maggio ad agosto, i charter serali dalle 18:00 offrono una prospettiva unica dell'arcipelago. Vivi la magia dei tramonti sardi dal mare.",
+    "benefits": {
+      "lessTraffic": {
+        "title": "Meno Traffico",
+        "description": "Luoghi iconici come Porto Madonna e Spargi sono meno affollati."
+      },
+      "temperature": {
+        "title": "Temperatura Perfetta",
+        "description": "Traffico nautico ridotto e temperature più basse per maggior comfort."
+      },
+      "access": {
+        "title": "Miglior Accesso",
+        "description": "Miglior accesso a calette protette e ristoranti accessibili via mare."
+      },
+      "exclusive": {
+        "title": "Esperienza Esclusiva",
+        "description": "Un'esperienza di navigazione più tranquilla ed esclusiva al tramonto."
+      }
+    }
+  },
+  "partenza": {
+    "title": "Punti di Partenza",
+    "tagline": "Luoghi di Partenza Flessibili",
+    "description": "Imbarco diretto da hotel selezionati e marine private. Altri punti lungo la Costa Smeralda su richiesta.",
+    "points": {
+      "laMaddalena": "Punto di partenza principale",
+      "palau": "Accesso comodo",
+      "cannigione": "Accesso Costa Smeralda",
+      "bajaSardinia": "Pick-up in hotel disponibile",
+      "portoCervo": "Accesso marina premium"
+    }
+  },
+  "ristoranti": {
+    "title": "Supporto Ristoranti",
+    "tagline": "Cucina di Mare",
+    "p1": "Nessun servizio di cucina a bordo per mantenere la flessibilità e permetterti di scegliere le migliori esperienze culinarie.",
+    "p2": "Possibilità di sbarco in ristoranti accessibili via mare — da semplici trattorie a ristoranti esclusivi vista mare.",
+    "p3": "Supporto prenotazione secondo le tue preferenze. Accesso a locali selezionati grazie a relazioni operative locali.",
+    "features": {
+      "reservation": "Supporto Prenotazione",
+      "seaAccess": "Ristoranti Accessibili via Mare",
+      "local": "Consigli Locali"
+    }
+  },
+  "costruito": {
+    "title": "Costruito per Queste Acque",
+    "tagline": "Costruito per Queste Acque",
+    "description": "Le nostre imbarcazioni non sono barche ordinarie — sono strumenti di precisione progettati per le condizioni specifiche dell'Arcipelago della Maddalena e delle Bocche di Bonifacio.",
+    "features": {
+      "local": {
+        "title": "Costruito in Locale",
+        "description": "Imbarcazioni costruite localmente a La Maddalena con la massima attenzione ai dettagli."
+      },
+      "shallow": {
+        "title": "Pronto per Acque Basse",
+        "description": "Progettato per la navigazione in acque basse e passaggi stretti dell'arcipelago."
+      },
+      "stability": {
+        "title": "Stabilità Ottimizzata",
+        "description": "Stabilità dello scafo e manovrabilità ottimizzate per le Bocche di Bonifacio."
+      }
+    }
+  },
+  "cta": {
+    "title": "Pronto per Salpare?",
+    "tagline": "Il Tuo Charter Esclusivo Ti Aspetta",
+    "description": "Vivi la bellezza dell'Arcipelago della Maddalena a modo tuo. Contattaci per pianificare un'esperienza indimenticabile sul mare.",
+    "primaryCta": "Richiedi il Tuo Charter",
+    "secondaryCta": "Contattaci",
+    "note": "Gli orari sono flessibili e possono essere adattati in base al percorso e alle condizioni meteorologiche."
+  },
+  "footer": {
+    "tagline": "Noleggio RIB di Lusso Sardegna",
+    "description": "Esperienza esclusiva di charter RIB nell'Arcipelago della Maddalena, Costa Smeralda e Bonifacio. Noleggio barche premium con esperti locali.",
+    "quickLinks": "Link Rapidi",
+    "contact": "Contatto",
+    "rights": "Tutti i diritti riservati.",
+    "privacy": "Privacy Policy",
+    "terms": "Termini di Servizio"
+  },
+  "modal": {
+    "title": "Richiedi il Tuo Charter",
+    "name": "Nome",
+    "namePlaceholder": "Il tuo nome completo",
+    "email": "Email",
+    "emailPlaceholder": "tua@email.com",
+    "phone": "Telefono",
+    "phonePlaceholder": "+39 xxx xxx xxxx",
+    "date": "Data Preferita",
+    "guests": "Numero di Ospiti",
+    "guestsPlaceholder": "Seleziona...",
+    "message": "Messaggio",
+    "messagePlaceholder": "Raccontaci la tua esperienza di charter ideale...",
+    "note": "* Gli orari sono flessibili e possono essere adattati in base al percorso e alle condizioni meteorologiche.",
+    "submit": "Invia Richiesta",
+    "success": "Grazie per la tua richiesta! Ti contatteremo a breve."
+  }
+}
