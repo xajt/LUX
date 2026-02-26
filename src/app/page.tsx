@@ -1,4 +1,4 @@
-import { Header, Footer } from '@/components';
+import { Header, Footer, Hero } from '@/components';
 
 export default function Home() {
   return (
@@ -6,24 +6,9 @@ export default function Home() {
       <Header />
 
       {/* Main content with padding for fixed header */}
-      <main className="pt-16 md:pt-20">
-        {/* Hero placeholder */}
-        <section className="relative h-screen flex items-center justify-center bg-gradient-to-b from-lux-ocean to-lux-navy">
-          <div className="text-center text-lux-white px-6">
-            <h2 className="text-5xl md:text-7xl font-light mb-6" style={{ fontFamily: 'var(--font-heading)' }}>
-              LUX
-            </h2>
-            <p className="text-xl md:text-2xl font-light mb-4 text-lux-sand">
-              Luxury RIB Charter Sardinia
-            </p>
-            <p className="text-lg mb-8 opacity-80 max-w-2xl mx-auto">
-              Discover the pristine waters of La Maddalena Archipelago with our premium charter experience.
-            </p>
-            <button className="bg-lux-gold text-lux-navy px-8 py-3 text-lg font-medium rounded hover:bg-lux-sand transition-colors">
-              Request Your Charter
-            </button>
-          </div>
-        </section>
+      <main>
+        {/* Hero Section */}
+        <Hero />
 
         {/* Placeholder sections for navigation targets */}
         <section id="about" className="py-20 px-6 bg-lux-white">
