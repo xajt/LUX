@@ -1,0 +1,52 @@
+@import "tailwindcss";
+
+:root {
+  /* LUX Mediterranean Design System */
+  --lux-ocean: #1E3A5F;
+  --lux-sand: #F5E6D3;
+  --lux-gold: #C9A962;
+  --lux-cream: #FAF8F5;
+  --lux-navy: #0A1628;
+  --lux-white: #FFFFFF;
+
+  /* Semantic colors */
+  --background: var(--lux-cream);
+  --foreground: var(--lux-navy);
+  --primary: var(--lux-ocean);
+  --secondary: var(--lux-sand);
+  --accent: var(--lux-gold);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-lux-ocean: var(--lux-ocean);
+  --color-lux-sand: var(--lux-sand);
+  --color-lux-gold: var(--lux-gold);
+  --color-lux-cream: var(--lux-cream);
+  --color-lux-navy: var(--lux-navy);
+  --color-lux-white: var(--lux-white);
+  --font-heading: var(--font-cormorant);
+  --font-body: var(--font-outfit);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-body), system-ui, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading), Georgia, serif;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Selection color */
+::selection {
+  background: var(--lux-gold);
+  color: var(--lux-navy);
+}
